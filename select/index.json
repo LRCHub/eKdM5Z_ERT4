@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Never Forget You",
+  "base_artist": "AFROJACK",
+  "createdAt": "2026-02-27T06:35:57.847945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Words You Said... I'll Never Forget You Now",
+      "artist": "Hammock",
+      "has_synced": false,
+      "path": "select/01_Words_You_Said..._I'll_Never_Forget_You_Now_Hammock.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Zara Larsson feat. MNEK",
+      "has_synced": true,
+      "path": "select/02_Never_Forget_You_Zara_Larsson_feat._MNEK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Zara Larsson & MNEK",
+      "has_synced": true,
+      "path": "select/03_Never_Forget_You_Zara_Larsson_&_MNEK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Forget You - Orchestral Version",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/04_Never_Forget_You_-_Orchestral_Version_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Forget You (orchestral version)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/05_Never_Forget_You_(orchestral_version)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Addie Hamilton",
+      "has_synced": true,
+      "path": "select/06_Never_Forget_You_Scott_Bradlee's_Postmodern_Jukebox_feat._Addie_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/07_Never_Forget_You_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Never Forget You",
+      "artist": "Hüsker Dü",
+      "has_synced": true,
+      "path": "select/08_I'll_Never_Forget_You_Hüsker_Dü.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Never Forget You",
+      "artist": "Birdy",
+      "has_synced": true,
+      "path": "select/09_I'll_Never_Forget_You_Birdy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Zara Larsson, MNEK",
+      "has_synced": true,
+      "path": "select/10_Never_Forget_You_Zara_Larsson,_MNEK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Forget You (Mixed)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/11_Never_Forget_You_(Mixed)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/12_Never_Forget_You_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "MNEK feat. Zara Larsson",
+      "has_synced": true,
+      "path": "select/13_Never_Forget_You_MNEK_feat._Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "MNEK & Zara Larsson",
+      "has_synced": true,
+      "path": "select/14_Never_Forget_You_MNEK_&_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/15_Never_Forget_You_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Zara Larsson & MNEK",
+      "has_synced": true,
+      "path": "select/16_Never_Forget_You_Zara_Larsson_&_MNEK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never Forget You",
+      "artist": "Noisettes",
+      "has_synced": true,
+      "path": "select/17_Never_Forget_You_Noisettes.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Never Forget",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/18_Never_Forget_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Come On Baby (Never Forget)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/19_Come_On_Baby_(Never_Forget)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Never Forget",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/20_Never_Forget_Future.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Never Forget",
+      "artist": "Accept",
+      "has_synced": false,
+      "path": "select/21_Never_Forget_Accept.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "You Don't Remember, I'll Never Forget",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/22_You_Don't_Remember,_I'll_Never_Forget_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Never Forgive Never Forget",
+      "artist": "Biohazard",
+      "has_synced": false,
+      "path": "select/23_Never_Forgive_Never_Forget_Biohazard.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Never Forgive, Never Forget",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/24_Never_Forgive,_Never_Forget_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "A Little Reminder That I'll Never Forget",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/25_A_Little_Reminder_That_I'll_Never_Forget_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Never Forget",
+      "artist": "Rheostatics",
+      "has_synced": false,
+      "path": "select/26_Never_Forget_Rheostatics.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "That's Someone You Never Forget",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/27_That's_Someone_You_Never_Forget_Elvis_Presley.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Forget You",
+      "artist": "AFROJACK",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Forget_You_AFROJACK.txt"
+    }
+  ]
+}
