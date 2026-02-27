@@ -1,0 +1,74 @@
+# AFROJACK – Never Forget You
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It's always second nature
+for me to put you first
+I would call you later
+if I could find the words
+I know that I should
+hate you
+'cause you're
+easier to blame
+But I won't look back
+on our love like that
+No, I can't pretend
+I don't know your body
+like the back of my hand
+Nobody can hold me in the
+way that you can
+Even when you go,
+I'll never forget you
+Baby, for tonight
+Can we just forget and push
+our problems aside?
+I still hold your name to
+every tear I cried
+But I hope that you know
+I'll never regret you,
+never regret you
+I hope that you know I'll
+never regret you,
+never regret you
+Know we got our issues,
+darlin', everybody does
+I'll say that I don't miss you
+if a lie is what you want
+I kept every photo
+and I hold 'em like a grudge
+'Cause I still look back
+on our love like that
+No, I can't pretend
+(Can't pretend)
+I don't know your body
+like the back of my hand
+Nobody can hold me in the
+way that you can
+Even when you go,
+I'll never forget you
+(Never forget you)
+Baby, for tonight
+(For tonight)
+Can we just forget and push
+our problems aside?
+I still hold your name to
+every tear I cried
+But I hope that you know
+I'll never regret you,
+never regret you
+Ooh, never regret you,
+never regret you
+I hope that you know I'll
+never regret you,
+never regret you
+Baby, for tonight
+(For tonight)
+Can we just forget and push
+our problems aside?
+I still hold your name to
+every tear I cried
+But I hope that you know
+I'll never regret you,
+never regret you
+```
